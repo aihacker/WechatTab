@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WechatTab</string>
+    <string name="tab1_wechat">微信</string>
+    <string name="tab2_contact">通讯录</string>
+    <string name="tab3_found">发现</string>
+    <string name="tab4_self">我</string>
+</resources>
